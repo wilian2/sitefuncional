@@ -209,6 +209,7 @@ line-height: 1.4;
 <section class='container'>
           <hgroup>
             <h1>Bem-vindo ao Openshift</h1>
+            <h1>Criar um site funcional</h1>
           </hgroup>
 
 
